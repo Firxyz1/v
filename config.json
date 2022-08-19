@@ -1,0 +1,16 @@
+{
+  "SmBoL1": "ﾒ",
+  "SmBoL2": ">",
+  "ownerNumber": ["6285806459088@s.whatsapp.net"],
+  "ownerName": ["Firxyz"],
+  "botName": "DvlBot",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "Firxyz",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
